@@ -1,0 +1,18 @@
+<<< ONLY keep java tags in place
+/**
+ * Foo {bar baz} boing @bla pu point.
+ *
+ * Na mu {bu @ba po} pang.
+ *
+ * Ma mama {@brot not here}.
+ */
+object A
+>>>
+/**
+ * Foo {bar baz} boing @bla pu point.
+ *
+ * Na mu {bu @ba po} pang.
+ *
+ * Ma mama {@brot not here}.
+ */
+object A
